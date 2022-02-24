@@ -133,3 +133,10 @@
 .raw{
     display: flex;
 }
+.box{
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    height: 380px;
+    border: 2px solid black;
+}

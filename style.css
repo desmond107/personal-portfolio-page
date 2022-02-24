@@ -87,6 +87,9 @@
 #about{
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
+    padding: 25px;
+    margin-bottom: 53px;
 
 }
 #pic{
@@ -95,4 +98,10 @@
 #pic-img{
     height: 400px;
     width: 550px;
+}
+#intro{
+    display: flex;
+    text-align: justify;
+    flex-direction: column;
+    padding: 15px;
 }

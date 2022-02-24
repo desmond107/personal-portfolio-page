@@ -139,4 +139,14 @@
     width: 340px;
     height: 380px;
     border: 2px solid black;
+    margin: 15px;
+    align-items: center;
+    text-align: justify;
+    padding: 7px;
+    border-radius: 10px;
+    background: linear-gradient(to top,rgb(100 75 50)50% white 50%);
+    background-size: 100% 150%;
+    transition: all 6s;
+
+
 }

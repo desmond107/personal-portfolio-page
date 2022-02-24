@@ -77,3 +77,10 @@
     border: 1px solid white;
     transition: 5s ease;
 }
+.btn:hover{
+    cursor: pointer;
+    background-color: antiquewhite;
+    color: white;
+    box-shadow: 0 0 5px white, 0 0 9px white, 0 0 14px, white;
+    font-weight: bold;
+}

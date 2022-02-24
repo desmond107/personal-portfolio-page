@@ -120,3 +120,8 @@
     justify-content: space-around;
     display: flex;
 }
+.gallery img{
+    width: 320px;
+    height: 240px
+    margin: 15px;
+}

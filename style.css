@@ -125,3 +125,11 @@
     height: 240px
     margin: 15px;
 }
+#services{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+.raw{
+    display: flex;
+}

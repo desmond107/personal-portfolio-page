@@ -36,3 +36,14 @@
     box-shadow: 0 0 10px white;
 
 }
+/* home area*/
+#Home{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url('');
+    height: 900px;
+    width: 100%;
+    z-index: -1;
+}

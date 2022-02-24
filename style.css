@@ -34,6 +34,7 @@
     background-color: white;
     color: black;
     box-shadow: 0 0 10px white;
+    background-color: rgba(0, 0, 0, 0.5);
 
 }
 /* home area*/
@@ -46,4 +47,5 @@
     height: 900px;
     width: 100%;
     z-index: -1;
+    opacity: .8;
 }

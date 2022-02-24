@@ -105,3 +105,7 @@
     flex-direction: column;
     padding: 15px;
 }
+#intro h2{
+    margin-bottom: 25px;
+    font-size: 2rem;
+}

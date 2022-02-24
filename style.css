@@ -84,3 +84,15 @@
     box-shadow: 0 0 5px white, 0 0 9px white, 0 0 14px, white;
     font-weight: bold;
 }
+#about{
+    display: flex;
+    flex-direction: column;
+
+}
+#pic{
+    display: flex;
+}
+#pic-img{
+    height: 400px;
+    width: 550px;
+}

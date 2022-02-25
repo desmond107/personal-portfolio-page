@@ -1,4 +1,7 @@
 # personal-portfolio-page
+
+#AUTHOR: Desmond Kinoti
+
 this is a web portfolio page that contains the details of an IT specialist skills, experiences and prowess in areas of eaperties. it gives a detailed review of
 the background and specific areas of specialization as well as hobbies and likes.
 the portfolio gives a brief explanation of each area of specialization, how to contact them and about them.

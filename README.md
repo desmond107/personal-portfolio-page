@@ -14,6 +14,9 @@ HTML & CSS
 if their is  any outcome of bugs from the software, please comment and share your problem to, so that aid may be offered. Not anless the bugs are as a result
 of software editor/coding eitor error; which will be out of our leagal scope.
 
+#Description.
+the project is about a personal profesional portfolio. It has the image of the profilee and a depiction of the name, it contains an about mee that gives a brief summery of the person. in addition it has a portfolio section with images andd active links that redirect to projects done with a brief description of the projects. It is followed by a list of hobies  and a top navigation bar that gives accessibility to each attribute. the portfolio has a hire mebutton to prompt a request of service. their is an additional contuct me link to be able to give accessibility to the services offered & a an active link called services that give a descriptive summery of which kind of skills the develiper is endowed.
+
 #DEvelopment Contribution
 
 - Fork the repo
